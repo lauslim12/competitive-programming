@@ -1,0 +1,5 @@
+a = sorted(input())
+b = sorted(input())
+c = sorted(input())
+d = sorted(a + b)
+print("YES" if c == d else "NO")
