@@ -4,6 +4,13 @@ Usually done with C, C++, Python, and or Ruby. It all depends on the problem.
 
 When I see a problem, I usually try to deduce its nature before attacking it. I also try to deduce the best programming language to be used to solve the problem.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Coded%20with-C-lightgrey"/>
+  <img src="https://img.shields.io/badge/Coded%20with-C%2B%2B-f34b7d"/>
+  <img src="https://img.shields.io/badge/Coded%20with-Python-%233572A5"/>
+  <img src="https://img.shields.io/badge/Coded%20with-Ruby-%23701516"/>
+</p>
+
 ## TODO
 * Soon, I will make a folder named `implementations` where I store my algorithm implementations.
 * I will also make a folder named `templates` where I template my solutions. It will be filled with like `typedef`, `#define` statements, etcetera.
