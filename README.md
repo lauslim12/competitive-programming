@@ -9,6 +9,7 @@ When I see a problem, I usually try to deduce its nature before attacking it. I 
   <img src="https://img.shields.io/badge/Coded%20with-C%2B%2B-f34b7d"/>
   <img src="https://img.shields.io/badge/Coded%20with-Python-%233572A5"/>
   <img src="https://img.shields.io/badge/Coded%20with-Ruby-%23701516"/>
+  <img src="https://img.shields.io/badge/Coded%20with-Golang-%2329BEB0"/>
 </p>
 
 ## TODO
@@ -31,7 +32,7 @@ When I see a problem, I usually try to deduce its nature before attacking it. I 
 * Sortings
 
 ## Data Structures
-* Array
+* Array (or List, or Slice)
 * Linked List
 * Map
 * Set
@@ -57,6 +58,9 @@ C++:
 
 Python:
 * Run with `python problem.py`. It will be instantly run in the console.
+
+Golang:
+* Run with `go run problem.go`. Wait for it and it will be instantly run in the console.
 
 Ruby:
 * Simply execute it by running `ruby problem.rb`. Same like Python, it will be instantly run in the console.
