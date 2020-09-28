@@ -1,2 +1,5 @@
-# Currently solving folder
-/solving
+# Currently Solving
+solving/
+
+# Visual Studio Code
+.vscode
