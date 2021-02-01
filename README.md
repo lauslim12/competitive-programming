@@ -1,7 +1,6 @@
-# Codeforces
+# Competitive Programming
 
-Solution for many of Codeforces' exercises and problemsets.
-Usually done with C, C++, Python, and or Ruby. It all depends on the problem.
+Solution for many competitive programming websites. Usually done with C, C++, Python, JavaScript, and/or Ruby. It all depends on the problem.
 
 When I see a problem, I usually try to deduce its nature before attacking it. I also try to deduce the best programming language to be used to solve the problem.
 
@@ -12,10 +11,6 @@ When I see a problem, I usually try to deduce its nature before attacking it. I 
   <img src="https://img.shields.io/badge/Coded%20with-Ruby-%23701516"/>
   <img src="https://img.shields.io/badge/Coded%20with-Golang-%2329BEB0"/>
 </p>
-
-## TODO
-
-* Soon, I will make a folder named `implementations` where I store my algorithm implementations.
 
 ## Architecture and Philosophies
 
@@ -52,7 +47,7 @@ This project is structured according to the available problemsets in Codeforces.
 
 * Don't forget to use your Command Prompt!
 * First of all, copy the repository by using `git clone repo`.
-* After that, do `cd forked-repo/problem-that-you-want-to-run`.
+* After that, do `cd forked-repo/competitive-programming-website/problem-that-you-want-to-run`.
 * Then, what to do next depends on the programming language that the problem is solved in.
 
 C:
