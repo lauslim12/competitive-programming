@@ -33,11 +33,12 @@ When I see a problem, I usually try to deduce its nature before attacking it. I 
 ## Data Structures
 
 - Array (List / Slice)
-- Linked List
-- Map
+- Linked List (Single / Double / Circular)
+- Map (Hash Tables)
 - Set
-- Struct
-- Tuple
+- Stacks
+- Trees (Binary Search Tree, N-ary, etc.)
+- Queue (Single / Double Ended)
 
 ## Project Structure
 
@@ -45,7 +46,7 @@ This project is structured according to the available problemsets in many progra
 
 ## Installations and Usage
 
-- Don't forget to use your Command Prompt!
-- First of all, copy the repository by using `git clone repo`.
-- After that, do `cd forked-repo/competitive-programming-website/problem-that-you-want-to-run`.
-- Then, what to do next depends on the programming language that the problem is solved in and the source of the problemset. For CodeForces problems, it is possible to run it straight from your local machine. For Leetcode problems, you have to go to the problem and run it there.
+- First of all, copy the repository by using `git clone https://github.com/lauslim12/competitive-programming.git`.
+- After that, do `cd competitive-programming/competitive-programming-website/problem-that-you-want-to-run`.
+- Then, what to do next depends on the programming language that the problem is solved in and the source of the problemset. For CodeForces problems, it is possible to run it straight from your local machine.
+- For Leetcode problems, you have to go to the problem in the website and run it there.
